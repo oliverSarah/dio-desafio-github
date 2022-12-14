@@ -1,4 +1,4 @@
-# Repositório como desafio da DIO para Git/Github
+# Desafio DIO para Git/Github
 Primeiro repositório como desafio da Digital Innovation One. 
 
 ## Links úteis
